@@ -5,7 +5,7 @@
     "license": "BSD License",
     "autoload": {
         "psr-4": {
-            "Openfunltd\\LyTcToolkit\\": "src/"
+            "OpenFun\\LyTcToolkit\\": "src/"
         }
     },
     "authors": [
